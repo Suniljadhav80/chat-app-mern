@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: url('./assets/images/chat-background_1.jpeg') no-repeat bottom fixed;
+    background-size: cover;
+}
